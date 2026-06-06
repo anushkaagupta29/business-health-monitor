@@ -1,0 +1,16 @@
+Company,Year,OPM,prev_opm,margin_status
+Nykaa,FY21,3,,OK
+Nykaa,FY22,1,3.0,RISK FLAG
+Nykaa,FY23,4,1.0,OK
+Nykaa,FY24,4,4.0,OK
+Nykaa,FY25,7,4.0,OK
+Paytm,FY21,-72,,OK
+Paytm,FY22,-46,-72.0,OK
+Paytm,FY23,-20,-46.0,OK
+Paytm,FY24,-11,-20.0,OK
+Paytm,FY25,2,-11.0,OK
+Zomato,FY21,-71,,OK
+Zomato,FY22,-55,-71.0,OK
+Zomato,FY23,-23,-55.0,OK
+Zomato,FY24,-1,-23.0,OK
+Zomato,FY25,10,-1.0,OK

@@ -1,0 +1,41 @@
+{
+  "Zomato": {
+    "metrics": {
+      "company": "Zomato",
+      "latest_year": "FY25",
+      "latest_revenue_cr": 17003.0,
+      "latest_net_profit_cr": 527.0,
+      "latest_opm_pct": 10.0,
+      "avg_yoy_revenue_growth_pct": 72.7,
+      "margin_risk_flags": 0,
+      "years_analysed": 5
+    },
+    "health_report": "Zomato (now Eternal) has demonstrated exceptional revenue momentum, growing from \u20b91,994 crore in FY21 to \u20b917,003 crore in FY25 \u2014 a compound annual growth rate of approximately 71%. This trajectory reflects the rapid scaling of its food delivery, quick-commerce, and dining-out segments across 800+ Indian cities. The acceleration in FY24 and FY25 is particularly notable, suggesting the business has moved beyond its early hyper-growth phase into a more sustainable expansion cycle. Revenue diversification beyond food delivery has been a key driver of this sustained top-line performance.\n\nZomato crossed into operating profitability in FY25 with an OPM of 10% and net profit of \u20b9527 crore \u2014 a dramatic turnaround from losses exceeding \u20b91,200 crore as recently as FY22. This inflection point signals that the company's heavy investment phase in logistics infrastructure and customer acquisition is beginning to yield returns. The improvement in cost efficiency, with expenses declining as a proportion of sales, reflects better unit economics across its delivery network. The path to consistent profitability now appears structurally sound rather than episodic.\n\nThe primary risk for Zomato is margin sustainability as it scales quick-commerce (Blinkit), which operates on thinner margins than food delivery and requires continued dark store investment. A single unfavorable regulatory development or intensified competition from Swiggy Instamart could compress the hard-won OPM. The recommendation is to monitor the quick-commerce contribution margin quarterly \u2014 if Blinkit's unit economics deteriorate for two consecutive quarters, it warrants a strategic reassessment of capital allocation between the two business lines."
+  },
+  "Nykaa": {
+    "metrics": {
+      "company": "Nykaa",
+      "latest_year": "FY25",
+      "latest_revenue_cr": 7754.0,
+      "latest_net_profit_cr": 26.0,
+      "latest_opm_pct": 7.0,
+      "avg_yoy_revenue_growth_pct": 33.9,
+      "margin_risk_flags": 1,
+      "years_analysed": 5
+    },
+    "health_report": "Nykaa has built a steady revenue base growing from \u20b92,453 crore in FY21 to \u20b97,754 crore in FY25, representing a CAGR of approximately 33%. While this growth rate is lower than its new-age peers, it reflects Nykaa's deliberate focus on the premium beauty and personal care segment \u2014 a category with strong brand loyalty and repeat purchase behavior. The fashion segment, though smaller, has added incremental revenue diversification. Consistent year-on-year growth without a single revenue decline across the five-year period is a mark of operational stability.\n\nNykaa's profitability story is modest but improving \u2014 OPM expanded from 3% in FY21 to 7% in FY25, with net profit stabilizing at \u20b926 crore in FY25. These margins remain thin relative to revenue scale, reflecting ongoing investment in warehousing, private label development, and the fashion vertical. The company has avoided the deep losses seen in Zomato and Paytm, suggesting a more conservative capital deployment strategy. However, the absolute profit numbers remain insufficient to justify the company's premium valuation multiples without further margin expansion.\n\nNykaa's biggest risk is competitive intensity from Reliance's Tira and the growing direct-to-consumer channels of major beauty brands that historically sold through Nykaa. If brand partners begin bypassing the platform, GMV growth could stall despite revenue appearing stable. The recommendation is to accelerate private label penetration \u2014 Nykaa's own-brand products carry 3-4x the gross margin of third-party brands, and increasing their share of GMV from the current level is the single highest-leverage action available to management."
+  },
+  "Paytm": {
+    "metrics": {
+      "company": "Paytm",
+      "latest_year": "FY25",
+      "latest_revenue_cr": 10483.0,
+      "latest_net_profit_cr": 1422.0,
+      "latest_opm_pct": 2.0,
+      "avg_yoy_revenue_growth_pct": 42.0,
+      "margin_risk_flags": 0,
+      "years_analysed": 5
+    },
+    "health_report": "Paytm (One97 Communications) grew revenues from \u20b92,802 crore in FY21 to \u20b910,483 crore in FY25, a CAGR of approximately 39%, though growth decelerated significantly in FY25 following the RBI action on Paytm Payments Bank in early 2024. The business has diversified across payments, financial services distribution, and commerce, but remains heavily dependent on the payments vertical for both revenue and user engagement. The FY25 revenue figure of \u20b910,483 crore represents only 5% growth over FY24, signaling the material business disruption caused by the regulatory intervention. Recovery of merchant relationships and UPI market share lost during this period is the company's most immediate strategic priority.\n\nFY25 saw a dramatic reported net profit of \u20b91,422 crore, but this figure includes one-time gains and does not reflect underlying operational profitability. The OPM turned positive at 2% in FY25, up from -11% in FY24 \u2014 a genuine improvement driven by cost restructuring and headcount reduction. However, the company accumulated losses of over \u20b99,000 crore across FY21-FY24, making the balance sheet recovery a multi-year story. Investors should focus on EBITDA before ESOP costs as the most honest measure of operational progress.\n\nPaytm's existential risk is regulatory \u2014 a repeat of the Payments Bank action, or adverse policy on MDR (merchant discount rate) for UPI transactions, could structurally impair the business model. The company's dependency on a zero-MDR payments infrastructure for user acquisition creates a fundamental tension between scale and monetization. The recommendation is to aggressively expand the financial services distribution business \u2014 specifically mutual fund SIPs and insurance premiums \u2014 as this vertical carries meaningful revenue per transaction and is less exposed to UPI policy risk."
+  }
+}
