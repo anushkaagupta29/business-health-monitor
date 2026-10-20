@@ -149,10 +149,22 @@ business-health-monitor/
 
 ## Why these companies
 
-Zomato, Nykaa, and Paytm are three of the most closely watched Indian new-age
-companies — all listed post-2021, all with volatile financials, and all known to
-every recruiter at Indian consulting and tech firms. Analysing them signals
-familiarity with the Indian business landscape, not just generic Western datasets.
+Zomato, Nykaa and Paytm are three well-known Indian new-age companies, all listed after 2021, with volatile financials and very different paths to profitability. That makes them a good test for a pipeline that has to explain growth, cost efficiency and margin risk rather than just plot them.
+
+---
+
+## Limitations
+
+- Covers 3 companies and 5 financial years (FY21-FY25), so findings are descriptive, not predictive.
+- Source figures come from Screener.in and were not independently audited.
+- The Gemini reports are generated text. They restate the computed metrics but can phrase causes (for example, dark store investment) that are not in the data, so treat them as a draft for a human to check.
+- OPM and cost ratios are calculated from reported figures and are not adjusted for one-off items.
+
+## Possible next steps
+
+- Add more companies and quarterly data.
+- Check the report text automatically against the computed metrics.
+- Wrap the notebooks in a small Streamlit app.
 
 ---
 
